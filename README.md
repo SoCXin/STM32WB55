@@ -1,22 +1,37 @@
-﻿# [cortex A53](https://github.com/sochub/CA53) 
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
-#### 归属：[cortex A](https://github.com/sochub/CA)
+﻿# [STM32WB55](https://github.com/SoCXin/STM32WB55)
+
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
+
+* [ST](https://www.st.com/zh/)：[Cortex-M4 + Cortex-M0](https://github.com/SoCXin/Cortex)
+* [L3R6](https://github.com/SoCXin/Level) ：64MHz x 1.25 DMIPS/MHz + 32MHz x 0.95 DMIPS/MHz
+
+## [简介](https://github.com/SoCXin/STM32WB55/wiki)
+
+[STM32WB55](https://github.com/SoCXin/STM32WB55) 支持单独或并发运行的Bluetooth® LE 5.0和IEEE 802.15.4通信协议、 Zigbee®和Thread。STM32WB系列具有广泛且易于使用的生态系统，提供经过认证的免费无线电堆栈。
 
 
-## [描述](https://github.com/sochub/CA53/wiki) 
+[![sites](docs/STM32WB55.png)](https://my.st.com/content/my_st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-wireless-mcus/stm32wl-series/stm32wlex.html)
 
-[cortex A53](https://www.arm.com/products/silicon-ip-cpu/cortex-a/cortex-a53) 基于ARMv8-A 64架构，单个核心的功耗不超过0.13W，最小的64位处理器，能够支持32位的ARMv7代码和64位代码的AArch64执行状态，A53相比A9最大的优势在于程序执行效率，是当前国产芯片的主流架构之一。
+### 关键特性
 
-但当前最新的cortex A35架构在减低功耗和尺寸上有长足进步，相对A53性能差距没有拉开，导致A53地位有点尴尬。
+* BLE 5.2
+* USB FS
 
-### [收录产品](https://github.com/sochub)
+#### 封装规格
 
-* [allwinner](https://github.com/sochub/allwinner)
-    * [H6](https://github.com/sochub/H6)
-    * [A64](https://github.com/sochub/A64)
-* [rockchips](https://github.com/sochub/rockchips)
-    * [RK3368](https://github.com/sochub/RK3368)
-    * [RK3328](https://github.com/sochub/RK3328)
+* UFQFPN48（7x7mm）
+* VFQFPN68（8x8mm）
 
 
-##  [SoC资源平台](http://www.qitas.cn)
+### [资源收录](https://github.com/SoCXin/STM32WB55)
+
+* [参考文档](docs/)
+* [参考资源](src/)
+* [参考工程](project/)
+
+### [选型建议](https://github.com/SoCXin)
+
+[STM32WB55](https://github.com/SoCXin/STM32WB55)
+
+
+### [探索芯世界 www.SoC.xin](http://www.SoC.Xin)
